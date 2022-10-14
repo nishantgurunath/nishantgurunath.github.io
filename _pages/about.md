@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-
-
-## About Me
 
 I am an applied machine learning (ML) and natural language processing (NLP) scientist/engineer at Moody's analytics. I graduated from Carnegie Mellon University with a Master's in Computer Engineering and a primary focus on machine learning. At a core level, I enjoy problem-solving and positively impacting the world. My motivation for pursuing machine learning stems from AI's potential to solve many fundamental problems and my interest in a probabilistic worldview. I love to find patterns in the data, extract relevant information, and draw meaningful inferences. This led to my primary interest in machine learning for NLP, as we are surrounded by a plethora of text data with many untapped potentials. 
 
