@@ -83,9 +83,9 @@ author:
   name             : "Nishant Gurunath"
   avatar           : "IMG_3453_Original.jpeg"
   bio              : "Active in research and product development using Machine Learning and Natural Language Processing (NLP) to extract information and build knowledge from text data."
-  location         : ""
+  location         : #"New Jersey, United States"
   employer         :
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=djhHMBYAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
