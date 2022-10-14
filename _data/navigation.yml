@@ -4,7 +4,7 @@ main:
     url: /publications/
     
   - title: "CV"
-    url: https://github.com/nishantgurunath/nishantgurunath.github.io/files/Nishant_Gurunath_Resume.pdf 
+    url: https://github.com/nishantgurunath/nishantgurunath.github.io/blob/master/files/Nishant_Gurunath_Resume.pdf
         
   - title: "Blog Posts"
     url: /year-archive/
