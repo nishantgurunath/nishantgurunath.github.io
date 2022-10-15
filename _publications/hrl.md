@@ -7,7 +7,3 @@ date: 2019-04-30
 venue: 'Probabilistic Graphical Models'
 citation: 'Scott Sun, Aniruddh Shetty, Nishant Gurunath, Raunaq Bhirangi (2019). "Improving DQN and TRPO with Hierarchical Meta-controllers".'
 ---
-
-
-
-Recommended citation: Scott Sun, Aniruddh Shetty, Nishant Gurunath, Raunaq Bhirangi (2019). "Improving DQN and TRPO with Hierarchical Meta-controllers".
