@@ -2,6 +2,9 @@
 main:
   - title: "Publications"
     url: /publications/
-    
+
+  - title: "Applications"
+    url: /applications/
+
   - title: "CV"
     url: https://github.com/nishantgurunath/nishantgurunath.github.io/blob/master/files/Nishant_Gurunath_Resume.pdf
