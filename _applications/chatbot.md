@@ -6,4 +6,4 @@ date: 2022-01-31
 citation: 'Nishant Gurunath (2022). "Multilingual Language Learning Bot using WebSpeech and OpenAI".'
 ---
 
-[Multilingual Language Learning Bot using WebSpeech and OpenAI](https://voracious-grateful-phosphorus.glitch.me/)
+[Application URL: Multilingual Language Learning Bot using WebSpeech and OpenAI](https://voracious-grateful-phosphorus.glitch.me/)
