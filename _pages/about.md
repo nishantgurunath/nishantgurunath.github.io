@@ -8,11 +8,19 @@ redirect_from:
   - /about.html
 ---
 
+I am an applied scientist and engineer specializing in machine learning (ML) and natural language processing (NLP) at Moody's Analytics. I hold a Master's degree in Computer Engineering from Carnegie Mellon University, where I focused on machine learning. At my core, I am driven by a passion for problem-solving and making a positive impact through technology. My fascination with machine learning stems from its transformative potential to address fundamental challenges, coupled with my probabilistic worldview. I enjoy discovering patterns in data, extracting valuable insights, and drawing meaningful inferences—interests that naturally led me to NLP, a field brimming with opportunities in unstructured text data.  
 
-I am an applied scientist/engineer in machine learning (ML) and natural language processing (NLP) at Moody's Analytics. I graduated from Carnegie Mellon University with a Master's in Computer Engineering and a primary focus on machine learning. At a core level, I enjoy problem-solving and positively impacting the world. My motivation for pursuing machine learning stems from AI's potential to solve many fundamental problems and my interest in a probabilistic worldview. I love to find patterns in the data, extract relevant information, and draw meaningful inferences. This led to my primary interest in machine learning for NLP, as we are surrounded by a plethora of text data with many untapped potentials. 
+At Moody's Analytics, I apply NLP across diverse domains, including:  
+1. **Know Your Customer (KYC):** Enhancing risk detection for high-risk entities.  
+2. **Environmental, Social, and Governance (ESG):** Assessing corporate ESG risks and identifying improvement areas.  
+3. **Commercial Real Estate (CRE):** Creating analytical tools for market research and investment.  
+4. **Sales Recommendations:** Driving business growth through tailored recommendations.  
 
-My work at Moody's Analytics comprises applications of NLP in the areas of 1) Know Your Customer (KYC) - alerting risk-prone entities, 2) Environmental, Social and Governance (ESG) - assess the ESG risk in the corporate world, and identify areas of improvement, 3) Commercial Real Estate (CRE) - analytical solutions to assist CRE market research and investment, and 4) Sales Recommendation - to grow Moody's Analytics business. I have developed ML-NLP models for entity matching, entity risk profiling, open information extraction, data enrichment pipelines, and recommendation systems. I am well-versed in named entity recognition, keyphrase extraction, text classification, text retrieval and ranking, duplicate detection, and zero-shot classification. I also focus on model governance and model explainability to ensure a more practical application of the models in the real world. 
+I have developed models and systems for entity matching, risk profiling, information extraction, data enrichment, and recommendation engines. My expertise includes techniques like named entity recognition, keyphrase extraction, text classification, retrieval and ranking, duplicate detection, and zero-shot classification. I am particularly focused on model governance and explainability, ensuring practical and ethical application in real-world scenarios.  
 
-As a part of my fascination for problem-solving, I also strive to find the most practical solution. I enjoy optimizing engineering solutions to efficiently deploy machine learning models. I have worked on system architecture design, implementing ML-NLP pipelines, deploying microservices, and developing APIs. 
+Recently, I have been at the forefront of leveraging AI agents for compliance and screening. I developed the **AI Screening Agent**, a groundbreaking solution for automating Level 1 (L1) screening workflows in KYC and compliance. This system aims to minimize false positives, significantly reducing human review time and cost. Going beyond traditional Retrieval-Augmented Generation (RAG) applications like summarization and chat-with-your-data (CWYD), the AI Screening Agent introduces a novel architecture with distributed intelligence, enabling it to perform complex compliance decision-making with accuracy comparable to human analysts.
 
-Outside work, I enjoy hiking, tennis, ping-pong, and working out. I am also one of the Pandemic-era piano beginners. 
+Beyond machine learning, I am passionate about optimizing engineering solutions for seamless deployment. I have extensive experience in system architecture, building ML-NLP pipelines, deploying microservices, and creating APIs.  
+
+Outside of work, I enjoy hiking, playing tennis and ping-pong, working out, and exploring the piano—a hobby I picked up during the pandemic.
+
